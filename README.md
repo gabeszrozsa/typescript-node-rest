@@ -1,1 +1,1 @@
-"# typescript-node-rest" 
+# typescript-node-rest
